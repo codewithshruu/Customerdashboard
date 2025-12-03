@@ -72,3 +72,7 @@ Open the `.pbix` file in **Power BI Desktop** to explore the dashboard.
 
 ---
 
+<img width="1918" height="900" alt="image" src="https://github.com/user-attachments/assets/6cdaee61-51fd-45d2-b15d-acd2d555ea74" />
+
+
+
